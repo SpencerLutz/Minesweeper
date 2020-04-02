@@ -1,5 +1,3 @@
-package pkg15a.minesweeper;
-
 public class Game {
     final int width = 15, height = 15;
     boolean[][] m = new boolean[width][height];
